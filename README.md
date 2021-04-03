@@ -16,11 +16,11 @@ Partner B: Name (UTEID)
 By **checkpoint** deadline
 * Fill out the team info above and push this updated README to your team repository.
 * Also make sure to submit the URL of your team repository.
-* Complete `TODO 1` through `TODO 6` in `Lab1_Notebook.ipynb` and push all updated/added files to your team repository.
+* Complete `TODO 1` through `TODO 6` in `Lab1_Notebook.ipynb` and push the updated notebook (and other updated files) to your team repository.
 
 By **final** deadline
 * Complete the rest of the `TODOs` in `Lab1_Notebook.ipynb`.
-* Push the updated notebook to your team repository.
+* Push the updated notebook (and other updated fileds) to your team repository.
 
 ## Getting Started
 
