@@ -49,9 +49,8 @@ $ git clone https://github.com/cs356-sp21/lab1-{YourTeamName}
 ```
 You should see the starter code created under assignments/lab1-{YourTeamName}
 
-Now let's start up the VM.
+Now let's start up the VM. Note that you are still under assignments directory where `Vagrantfile` and `cs356-sp21-minilab.box` file is.
 ```
-$ cd ../ # you are under assignments directory
 $ vagrant destroy
 $ vagrant up
 $ vagrant ssh
