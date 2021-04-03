@@ -24,7 +24,7 @@ By **final** deadline
 
 ## Getting Started
 
-On your host machine (not the VM), go to the root of the `Lab0` folder (Not `Lab1` folder but `Lab0`!)
+On your host machine (not the VM), go to the root of the `Lab0` folder (Not `Lab1` folder but `Lab0`, the very first lab)
 ```
 $ cd {YourOwnPath}/lab-{YourTeamNameForLab0}
 $ ls
